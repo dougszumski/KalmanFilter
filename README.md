@@ -9,3 +9,4 @@ railtruck_example.py - railtruck subject to random accelerations
 voltmeter_example.py - noisy measurement of a constant voltage
 kalman_filter.py - simple Kalman filter
 helper_utils - used to visualise the output from the examples
+
